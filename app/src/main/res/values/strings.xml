@@ -10,4 +10,13 @@
     <string name="search_view">This is a search view</string>
     <string name="ana_are_mere">Ana are mere!</string>
     <string name="error_null_email">Please add an email address!</string>
+    <string name="this_is_an_orange_textview">This is an orange TextView</string>
+    <string name="this_is_a_green_textview">This is a green TextView</string>
+    <string name="this_is_a_blue_textview">This is a blue TextView</string>
+    <string name="this_is_a_button">This is a button</string>
+    <string name="this_is_an_edittext">This is an EditText</string>
+    <string name="this_is_a_new_edittext">This is a new EditText</string>
+    <string name="notify_me">Notify me :)</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
 </resources>
