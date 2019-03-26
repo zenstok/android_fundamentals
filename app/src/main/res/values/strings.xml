@@ -19,4 +19,8 @@
     <string name="notify_me">Notify me :)</string>
     <string name="YES">YES</string>
     <string name="NO">NO</string>
+    <string name="hello_textview1">Hello TextView1 :)</string>
+    <string name="hello_textview2">Hello TextView2 :)</string>
+    <string name="hello_textview3">Hello TextView3 :)</string>
+    <string name="hello_textview4">Hello TextView4 :)</string>
 </resources>
