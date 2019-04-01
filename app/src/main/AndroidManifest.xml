@@ -11,14 +11,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".w3.LoginActivity"></activity>
-        <activity android:name=".w3.SpinnerActivity">
+        <activity android:name=".w3.FrameLayoutCodeChallenges">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            </intent-filter></activity>
+        <activity android:name=".w3.ScrollViewRelativeLayoutCodeChallengeActivity">
         </activity>
+        <activity android:name=".w3.SpinnerCodeChallengeActivity"></activity>
+        <activity android:name=".w3.LoginActivity" />
+        <activity android:name=".w3.SpinnerActivity" />
         <activity android:name=".w3.WebViewActivity" />
         <activity android:name=".w3.ViewGroupsActivity" />
         <activity android:name=".MainActivity" />
