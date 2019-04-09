@@ -11,22 +11,26 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".w4.ConstraintLayoutActivity"></activity>
-        <activity android:name=".w4.ReyclerViewActivity">
+        <activity android:name=".w5.SecondActivity"></activity>
+        <activity android:name=".w5.FirstActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".w3.FrameLayoutCodeChallenges"></activity>
+        <activity android:name=".w4.ConstraintLayoutActivity" />
+        <activity android:name=".w4.ReyclerViewActivity">
+        </activity>
+        <activity android:name=".w3.FrameLayoutCodeChallenges" />
         <activity android:name=".w3.ScrollViewRelativeLayoutCodeChallengeActivity" />
         <activity android:name=".w3.SpinnerCodeChallengeActivity" />
         <activity android:name=".w3.LoginActivity" />
         <activity android:name=".w3.SpinnerActivity" />
         <activity android:name=".w3.WebViewActivity" />
         <activity android:name=".w3.ViewGroupsActivity" />
-        <activity android:name=".MainActivity" />
+        <activity android:name=".MainActivity">
+        </activity>
         <activity android:name=".w2.W2" />
     </application>
 

@@ -28,4 +28,7 @@
     <string name="phone">Phone</string>
     <string name="i_accept_the_terms_and_conditions">I accept the Terms and Conditions</string>
     <string name="submit">Submit</string>
+    <string name="start_second_activity">Start second activity</string>
+    <string name="call_implicit_intent">Call Implicit Intent</string>
+    <string name="send_data_to_second_activity">Send data to second activity</string>
 </resources>
