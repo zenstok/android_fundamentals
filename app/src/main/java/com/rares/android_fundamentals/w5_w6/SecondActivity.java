@@ -1,4 +1,4 @@
-package com.rares.android_fundamentals.w5;
+package com.rares.android_fundamentals.w5_w6;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

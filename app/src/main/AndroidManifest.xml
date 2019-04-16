@@ -11,17 +11,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".w5.SecondActivity"></activity>
-        <activity android:name=".w5.FirstActivity">
+        <activity
+            android:name=".w6.NavigationActivity"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".w4.ConstraintLayoutActivity" />
-        <activity android:name=".w4.ReyclerViewActivity">
+        <activity android:name=".w6.FragmentInActivity">
         </activity>
+        <activity android:name=".w5_w6.DebugActivity" />
+        <activity android:name=".w5_w6.ForResultActivity2" />
+        <activity android:name=".w5_w6.ForResultActivity1"></activity>
+        <activity android:name=".w5_w6.SecondActivity" />
+        <activity android:name=".w5_w6.FirstActivity" />
+        <activity android:name=".w4.ConstraintLayoutActivity" />
+        <activity android:name=".w4.ReyclerViewActivity" />
         <activity android:name=".w3.FrameLayoutCodeChallenges" />
         <activity android:name=".w3.ScrollViewRelativeLayoutCodeChallengeActivity" />
         <activity android:name=".w3.SpinnerCodeChallengeActivity" />
@@ -29,8 +37,7 @@
         <activity android:name=".w3.SpinnerActivity" />
         <activity android:name=".w3.WebViewActivity" />
         <activity android:name=".w3.ViewGroupsActivity" />
-        <activity android:name=".MainActivity">
-        </activity>
+        <activity android:name=".MainActivity" />
         <activity android:name=".w2.W2" />
     </application>
 

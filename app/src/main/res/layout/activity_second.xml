@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".w5.SecondActivity">
+    tools:context=".w5_w6.SecondActivity">
 
     <TextView
         android:id="@+id/sentMessage"
